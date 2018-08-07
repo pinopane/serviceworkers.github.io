@@ -4,19 +4,19 @@ var filesToCache = [
   '/index.html',
   '/scripts/app.js',
   '/styles/inline.css',
-  '/images/clear.png',
-  '/images/cloudy-scattered-showers.png',
-  '/images/cloudy.png',
-  '/images/fog.png',
-  '/images/ic_add_white_24px.svg',
-  '/images/ic_refresh_white_24px.svg',
-  '/images/partly-cloudy.png',
-  '/images/rain.png',
-  '/images/scattered-showers.png',
-  '/images/sleet.png',
-  '/images/snow.png',
-  '/images/thunderstorm.png',
-  '/images/wind.png'
+  '/serviceworkers.github.io/images/clear.png',
+  '/serviceworkers.github.io/images/cloudy-scattered-showers.png',
+  '/serviceworkers.github.io/images/cloudy.png',
+  '/serviceworkers.github.io/images/fog.png',
+  '/serviceworkers.github.io/images/ic_add_white_24px.svg',
+  '/serviceworkers.github.io/images/ic_refresh_white_24px.svg',
+  '/serviceworkers.github.io/images/partly-cloudy.png',
+  '/serviceworkers.github.io/images/rain.png',
+  '/serviceworkers.github.io/images/scattered-showers.png',
+  '/serviceworkers.github.io/images/sleet.png',
+  '/serviceworkers.github.io/images/snow.png',
+  '/serviceworkers.github.io/images/thunderstorm.png',
+  '/serviceworkers.github.io/images/wind.png'
 ];
 
 self.addEventListener('install', function(e) {
